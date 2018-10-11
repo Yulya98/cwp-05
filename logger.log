@@ -1,0 +1,23 @@
+
+Date: 1538857568558 url: /api/articles/delete body: {} 
+Date: 1538857941192 url: /api/comments/delete body: {"id":16} 
+Date: 1538858045672 url: /api/articles/read body: {"id":1} 
+Date: 1538858801900 url: /api/comments/delete body: {"id":15} 
+Date: 1539142977734 url: /api/articles/readall body: {"id":15} 
+Date: 1539143110058 url: /api/articles/read body: {"id":1} 
+Date: 1539143261000 url: /api/articles/create body: {"title":"H","text":"H","date":"09.09.2009","author":"H"} 
+Date: 1539143359682 url: /api/articles/update body: {"id":3,"text":"H"} 
+Date: 1539143393166 url: /api/articles/delete body: {"id":5} 
+Date: 1539143497790 url: /api/comments/create body: {"articleId":3,"text":"B","date":"04.04.2004","author":"B"} 
+Date: 1539150115699 url: /api/articles/readall body: {"sortOrder":"asc","sortField":"author","includeDeps":"false","page":2,"limit":1} 
+Date: 1539150175360 url: /api/articles/read body: {"id":1} 
+Date: 1539150279462 url: /api/articles/create body: {"title":"K","text":"K","date":"04.04.2009","author":"K"} 
+Date: 1539150424980 url: /api/articles/update body: {"id":1,"text":"K"} 
+Date: 1539150461908 url: /api/articles/delete body: {"id":4} 
+Date: 1539150581756 url: /api/comments/create body: {"articleId":2,"text":"F","date":"02.02.2012","author":"A"} 
+Date: 1539150876055 url: /api/comments/delete body: {"id":14} 
+Date: 1539150963902 url: /api/logs body: {"id":14} 
+Date: 1539151962239 url: /api/articles/readall body: {"id":14} 
+Date: 1539151993038 url: /api/articles/read body: {"id":1} 
+Date: 1539152042268 url: /api/articles/create body: {"title":"K","text":"K","date":"04.04.2009","author":"K"} 
+Date: 1539152088825 url: /api/articles/delete body: {"id":4} 
